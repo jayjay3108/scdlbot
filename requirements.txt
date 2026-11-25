@@ -5,7 +5,7 @@ bandcamp-downloader @ git+https://github.com/iheanyi/bandcamp-dl.git@558b785a33d
 beautifulsoup4==4.14.3 ; python_version >= "3.11" and python_version < "4.0"
 boltons==25.0.0 ; python_version >= "3.11" and python_version < "4.0"
 brotli==1.2.0 ; python_version >= "3.11" and python_version < "4.0" and implementation_name == "cpython"
-brotlicffi==1.2.0.1 ; python_version >= "3.11" and python_version < "4.0" and implementation_name != "cpython"
+brotlicffi==1.2.1.0 ; python_version >= "3.11" and python_version < "4.0" and implementation_name != "cpython"
 certifi==2026.2.25 ; python_version >= "3.11" and python_version < "4.0"
 cffi==2.0.0 ; python_version >= "3.11" and python_version < "4.0"
 charset-normalizer==3.4.6 ; python_version >= "3.11" and python_version < "4.0"
