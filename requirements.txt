@@ -45,7 +45,7 @@ tzdata==2025.3 ; python_version >= "3.11" and python_version < "4.0" and platfor
 tzlocal==5.3.1 ; python_version >= "3.11" and python_version < "4.0"
 unicode-slugify @ git+https://github.com/mozilla/unicode-slugify.git@a18826f440d0b74e536f5e32ebdcf30e720f20d8 ; python_version >= "3.11" and python_version < "4.0"
 unidecode==1.4.0 ; python_version >= "3.11" and python_version < "4.0"
-urllib3==2.6.3 ; python_version >= "3.11" and python_version < "4.0"
+urllib3==2.8.0 ; python_version >= "3.11" and python_version < "4.0"
 websockets==16.0 ; python_version >= "3.11" and python_version < "4.0"
 yt-dlp @ git+https://github.com/yt-dlp/yt-dlp.git@7fd74d10097833ebce0cb162e0ccf7825de9b768 ; python_version >= "3.11" and python_version < "4.0"
 yt-dlp-ejs==0.8.0 ; python_version >= "3.11" and python_version < "4.0"
